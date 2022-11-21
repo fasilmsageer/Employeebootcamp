@@ -95,6 +95,9 @@ public class Main {
                 case 1:
                     addEmployee();
                     break;
+                case 2:
+                    viewEmployees();
+                    break;
             }
         }
     }
