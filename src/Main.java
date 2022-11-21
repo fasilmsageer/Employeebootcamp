@@ -104,6 +104,9 @@ public class Main {
                 case 4:
                     deleteEmployees();
                     break;
+                case 5:
+                    System.exit(0);
+                    break;
             }
         }
     }
