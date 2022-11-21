@@ -98,6 +98,9 @@ public class Main {
                 case 2:
                     viewEmployees();
                     break;
+                case 3:
+                    searchEmployees();
+                    break;
             }
         }
     }
