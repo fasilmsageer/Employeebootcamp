@@ -107,6 +107,8 @@ public class Main {
                 case 5:
                     System.exit(0);
                     break;
+                default:
+                    System.out.println("Invalid Choice");
             }
         }
     }
