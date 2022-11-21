@@ -101,6 +101,9 @@ public class Main {
                 case 3:
                     searchEmployees();
                     break;
+                case 4:
+                    deleteEmployees();
+                    break;
             }
         }
     }
